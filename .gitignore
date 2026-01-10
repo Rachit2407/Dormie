@@ -1,0 +1,13 @@
+# env files
+.env
+
+# python
+venv/
+__pycache__/
+
+# node / next
+node_modules/
+.next/
+
+# database
+*.db
